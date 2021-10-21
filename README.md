@@ -173,6 +173,13 @@ Relative line numbers work very nicely with [this](https://github.com/nadavspi/o
 
 ## Changelog
 
+### 0.4.4
+- Fix to an error constantly displayed in the console.
+
+### 0.4.3
+- Another fix to "fixed keyboard layout in Normal mode".
+- Added escape character backslash to surround command.
+
 ### 0.4.2
 - Attempted fix to https://github.com/esm7/obsidian-vimrc-support/issues/42 (thanks @Andr3wD!)
 - Fix to "fixed keyboard layout in Normal mode" which was often not really working.
